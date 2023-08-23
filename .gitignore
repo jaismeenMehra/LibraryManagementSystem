@@ -1,0 +1,59 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Database files
+*.sqlite3
+*.db
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Vim swap files
+*.swp
+*.swo
+
+# User-specific files
+*.pyc
+*.pyo
+
+# Sensitive or local configuration files
+settings_local.py
+.env
+
+# Log and temporary files
+*.log
+*.tmp
+*.temp
+
+# Generated/static files
+staticfiles/
+media/
+
+# Compiled frontend assets
+node_modules/
+*.js
+*.css
+
+# Backup and temporary files
+*.bak
+*.swp
+*~
+
